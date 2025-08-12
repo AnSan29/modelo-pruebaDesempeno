@@ -1,0 +1,7 @@
+librerias indispensables.
+
+mysql2  / pool -> sistema que permite crear una piscina de conexiones
+
+csv-parser
+
+express
